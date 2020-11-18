@@ -1,0 +1,4 @@
+Iris Test Data
+sepal length, sepal width, petal length, petal width, classification
+6.0,3.0,5.0,2.0,Iris-virginica
+5.9,2.4,4.2,1.2,Iris-versicolor

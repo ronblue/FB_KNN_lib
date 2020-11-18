@@ -1,0 +1,8 @@
+{
+  "execPath": "C:/MinGW/bin/gcc.exe",
+  "gccDefaultCFlags": "-Wall",
+  "gccDefaultCppFlags": "-Wall -std=11",
+  "gccErrorLimit": 15,
+  "gccIncludePaths": ".,./include,./path",
+  "gccSuppressWarnings": true
+}
